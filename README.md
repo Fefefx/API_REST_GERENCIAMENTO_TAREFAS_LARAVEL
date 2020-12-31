@@ -1,4 +1,4 @@
-#REST API com Laravel para cadastro de tarefas
+# REST API com Laravel para cadastro de tarefas
 
 Api REST para cadastro de tarefas usando de PHP 7.3, Laravel 8.2 e MySQL 8.
 Permite criar, alterar, excluir e pesquisar tarefas. Também faz a validação dos dados para que não ocorra erros ao inseri-los no banco de dados.
